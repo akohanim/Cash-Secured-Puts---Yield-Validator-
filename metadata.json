@@ -1,0 +1,5 @@
+{
+  "name": "CSP Trade Validator",
+  "description": "A Cash-Secured Put validator tool with live market simulation and Gemini-powered risk analysis.",
+  "requestFramePermissions": []
+}
